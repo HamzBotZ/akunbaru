@@ -13,6 +13,7 @@
 // • Xtreshe (Beban)
 // • DaniBotz Team
 // • AryBotz (ank ajg)
+// • IlhamSangatTdkGnz:v
 // • Dll
 
 //[!] Jangan Dihapus, mending ditambahin 
@@ -46,11 +47,11 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/AryBotz'
-global.sgh = 'https://github.com/aryjuanda'
-global.sgc = 'https://chat.whatsapp.com/JWMl9LW5g0i0RSj7ophXAk'
-global.sdc = 'https://github.com/aryjuanda'
-global.snh = 'https://youtube.com/c/AryBotz'
+global.sig = 'https://instagram.com/hamzz.jr'
+global.sgh = 'https://github.com/HamzBotZ'
+global.sgc = 'https://chat.whatsapp.com/FdP0znFDbNWKkleGN6bhxx'
+global.sdc = 'https://github.com/HamzBotZ'
+global.snh = 'https://youtube.com/c/HamzX'
 
 /*============== PAYMENT ==============*/
 global.pdana = '085762008398'
@@ -58,18 +59,18 @@ global.povo = 'Gaada bang :v'
 global.pgopay = 'Gaada bang :v'
 global.ppulsa = '085762008398'
 global.ppulsa2 = '085762008398'
-global.psaweria = 'https://saweria.co/arybotz'
+global.psaweria = 'https://saweria.co/'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285763050960'
-global.nomorown = '994408465157'
-global.namebot = 'AryBotz Ofc'
-global.nameown = 'X Ary Offcial'
+global.nomorbot = '62881023363385'
+global.nomorown = '6288214989352'
+global.namebot = 'Zxynn-Botz'
+global.nameown = 'HamzXtamVan'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['994408465157', 'X Ary Offcial', true]
+  ['6288214989352', 'HamzXtamVan', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -114,9 +115,9 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '「 AryBotz |Ary Offcial⁩ 」' //Main Watermark
-global.wm2 = '    乂 Ary Botz 乂     '
-global.wm3 = 'Ary Botz |ᗪ'
+global.wm = '「 Zxynn-Botz |HamzXtamVan⁩ 」' //Main Watermark
+global.wm2 = '    乂 Hamzzz 乂     '
+global.wm3 = 'Zxynn-Botz |ᗪ'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = 'AryBotz-MD✯✯✯✯✯ '
