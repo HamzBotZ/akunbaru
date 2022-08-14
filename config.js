@@ -53,23 +53,23 @@ global.sdc = 'https://github.com/aryjuanda'
 global.snh = 'https://youtube.com/c/AryBotz'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085762008398'
-global.povo = 'Gaada bang :v'
+global.pdana = '088214989352'
+global.povo = 'Ha'
 global.pgopay = 'Gaada bang :v'
-global.ppulsa = '085762008398'
-global.ppulsa2 = '085762008398'
-global.psaweria = 'https://saweria.co/arybotz'
+global.ppulsa = '088214989352'
+global.ppulsa2 = '0881023363385'
+global.psaweria = 'Ga Punya'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285763050960'
-global.nomorown = '994408465157'
-global.namebot = 'AryBotz Ofc'
-global.nameown = 'X Ary Offcial'
+global.nomorbot = '79203890637'
+global.nomorown = '6288214989352'
+global.namebot = 'ZxynnBotz'
+global.nameown = 'HamzGanz'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['994408465157', 'X Ary Offcial', true]
+  ['6288214989352', 'IlhamGanteng', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -114,12 +114,12 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '「 AryBotz |Ary Offcial⁩ 」' //Main Watermark
-global.wm2 = '    乂 Ary Botz 乂     '
-global.wm3 = 'Ary Botz |ᗪ'
+global.wm = '「 ZxynnBotz |IlhamGanz 」' //Main Watermark
+global.wm2 = '    乂 IlhamGanteng 乂     '
+global.wm3 = 'ZxynnBotz |ᗪ'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = 'AryBotz-MD✯✯✯✯✯ '
+global.titlebot = 'ZxynnBotz'
 global.author = global.wm
 
 
@@ -151,8 +151,8 @@ global.fpagedoc = '999'
 /*=========== HIASAN ===========*/
 // DEFAULT MENU
 global.dmenut = '    ➪' //top
-global.dmenub = '🌎 ' //body
-global.dmenub2 = '🌎 ' //body for info cmd on Default menu
+global.dmenub = '☠️ ' //body
+global.dmenub2 = '☠️ ' //body for info cmd on Default menu
 global.dmenuf = '\n' //footer
 
 // COMMAND MENUFonts for Android and iPhone  - www.fontskeyboard.com/share-now
@@ -173,7 +173,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = '\n'
-global.stickauth = `乂 YT:AryBotz.|ᗪ \nig AryBotz.id`
+global.stickauth = `乂 YT:Hamz9999+.|ᗪ \nig Hamz`
 
 global.multiplier = 38 // The higher, The harder levelup
 
